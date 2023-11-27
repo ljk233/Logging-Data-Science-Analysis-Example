@@ -1,0 +1,6 @@
+2023-11-27 06:26:59,857 - INFO - Initialised new pipeline.
+2023-11-27 06:26:59,857 - INFO - Data loaded successfully using random_state=42.
+2023-11-27 06:26:59,858 - INFO - Data split into training and testing sets (test_size=0.2, random_state=18)
+2023-11-27 06:26:59,859 - INFO - Model trained successfully.
+2023-11-27 06:26:59,859 - INFO - Predictions made on the test set.
+2023-11-27 06:26:59,859 - INFO - Mean Squared Error: 0.0 (6dp)
